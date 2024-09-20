@@ -1,4 +1,4 @@
-a_k1="get it from google AI studio"
+#a_k1="get it from google AI studio"
 
 
 p1="""
