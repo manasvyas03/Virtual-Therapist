@@ -2,8 +2,8 @@
 import streamlit as st
 from pathlib import Path
 import google.generativeai as genai
-from api_key import p1
-from api_key import a_k1
+import p1
+import a_k1
 
 # Config
 genai.configure(api_key=a_k1)
